@@ -15,6 +15,7 @@ Indicate what you think is Impostor,
 If the player is Impostor, then nothing happens,
 If the player is a Crewmate, the player who pointed out the player will be out
 Do you understand? So let's get start!
+
 日本語:
 こんにちは！
 新しいゲームモードを研究しました！
@@ -26,6 +27,7 @@ Do you understand? So let's get start!
 もしそのプレイヤーがインポスターであれば、何も起こりません。
 もしそのプレイヤーがクルーメイトであれば、指摘したプレイヤーは脱落します。
 わかりましたか？それでは始めましょう！
+
 中文:
 你们好!
 我研究出了一个新的游戏模式!
