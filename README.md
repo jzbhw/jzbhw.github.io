@@ -6,7 +6,7 @@ Hello!
 I've researched a new game mode!
 There will be a total of 4 Impostors in each game,
 Crewmate needs to dodge the Impostor and complete all missions to win.
-Impostor can be destroyed
+Impostor can't be destroyed
 But Crewmate doesn't know who Impostor is,
 When a Crewmate has done all the tasks,
 This Crewmate can start a meeting,
